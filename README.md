@@ -7,7 +7,8 @@ In this project, I have created dashboards to analyze super store's global perfo
 
 ```diff
 @@ Dashboard-1: How is each segment performing globally as they have multiple stores across the world and in different countries ?
-To have a bigger picture of the super store sales each segment will give an understanding of how to optimize profits, best convert for a new or first-time sale and trends of past behaviors.
+To have a bigger picture of the super store sales each segment will give an understanding of how to optimize profits, best convert for a new or first-time sale and trends of past behaviors.@@
+```
 
 ![image](https://github.com/priyankac15/SuperStoreSales_Dashboards/blob/main/Segment_Superstoresales.png)
 
@@ -23,4 +24,4 @@ Dashboard-4: What is the Global Performance of Super store as per Profits? Which
 Dashboard-5: What are the percentage of customers in each country? Which Product sub-category are favorites of the Super store among customers? Who are the Top 10 Customers of Super Store Sales across all the Regions? </h4>@@
 ![image](https://github.com/priyankac15/SuperStoreSales_Dashboards/blob/main/Customers.png)
 
-```
+
